@@ -15,3 +15,5 @@ redis:6
 valkey/valkey:8
 
 minio/minio
+
+xprobe_xinference/xinference:latest
